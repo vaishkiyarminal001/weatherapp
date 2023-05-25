@@ -1,14 +1,18 @@
 # weatherapp
 
-# weatherapp
-
 Weather App
 
+
+
+![Screenshot (834)](https://github.com/vaishkiyarminal001/weatherapp/assets/115460309/f0f34c02-1af0-4d79-a7ed-aa558fb207f0)
 
 
 The Weather App is a simple and easy-to-use app that allows you to check the weather for any city in the world. Simply enter the city name or country code into the search bar and click on the search icon. The app will then display the current weather conditions, as well as a forecast for the next 5 days.
 
 The Weather App also includes a number of advanced features, such as:
+
+
+![Screenshot (833)](https://github.com/vaishkiyarminal001/weatherapp/assets/115460309/c662058b-8bad-4fd1-ab2b-322c55358273)
 
 Hourly weather forecast
 Minutely weather forecast
